@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const { join } = require('path')
 const { copy } = require('./utils/copy')
 const { execSync } = require('child_process')
