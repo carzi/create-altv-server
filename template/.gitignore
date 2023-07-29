@@ -1,0 +1,15 @@
+node_modules
+.build
+
+altv-server/cache
+altv-server/data
+altv-server/modules
+altv-server/altv-server
+altv-server/altv-server.exe
+altv-server/altv-crash-handler
+altv-server/altv-crash-handler.exe
+altv-server/server.log
+altv-server/resources/main/*
+!altv-server/resources/main/resource.toml
+!altv-server/resources/main/package.json
+

@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "typeRoots": ["./node_modules/@types", "./node_modules/@altv"],
+    "moduleResolution": "node",
+    "target": "esNext",
+    "module": "esNext",
+    "baseUrl": ".",
+    "strict": true,
+    "paths": {
+      "@/*": ["./modules/*"]
+    }
+  }
+}
