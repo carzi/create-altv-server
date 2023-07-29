@@ -5,5 +5,12 @@
     "create-altv-server": "./index.js"
   },
   "author": "CARZI",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carzi/create-altv-server"
+  },
+  "bugs": {
+    "url": "https://github.com/carzi/create-altv-server/issues"
+  }
 }
